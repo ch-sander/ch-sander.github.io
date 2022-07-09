@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+    <identifier identifierType="DOI">10.48431/HC-TRANS/0K1X-TE43</identifier>
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Sander, Christoph</creatorName>
+            <givenName>Christoph</givenName>
+            <familyName>Sander</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-4452-0107</nameIdentifier>
+        </creator>
+        <creator>
+            <creatorName nameType="Personal">Garzoni, Leonardo</creatorName>
+            <givenName>Leonardo</givenName>
+            <familyName>Garzoni</familyName>
+            <nameIdentifier nameIdentifierScheme="Other" schemeURI="">https://d-nb.info/gnd/131421441</nameIdentifier>
+        </creator>
+    </creators>
+    <titles>
+        <title titleType="AlternativeTitle" xml:lang="it">Trattato delli meravigliosi effetti della calamita</title>
+    </titles>
+    <publisher>Bibliotheca Hertziana - Max Planck Institute for Art History</publisher>
+    <publicationYear>2022</publicationYear>
+    <resourceType resourceTypeGeneral="Book">Manuscript digitization and transcription</resourceType>
+    <subjects>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno" valueURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: Physical sciences</subject>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: Physical sciences</subject>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno" valueURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: History and archaeology</subject>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: History and archaeology</subject>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno" valueURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: Humanities</subject>
+        <subject subjectScheme="Fields of Science and Technology (FOS)" schemeURI="http://www.oecd.org/science/inno/38235147.pdf">FOS: Humanities</subject>
+    </subjects>
+    <dates>
+        <date dateType="Created">2022</date>
+        <date dateType="Issued">2022</date>
+    </dates>
+    <language>it</language>
+    <sizes/>
+    <formats/>
+    <version/>
+</resource>
